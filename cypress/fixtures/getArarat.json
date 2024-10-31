@@ -1,0 +1,1987 @@
+{
+    "code": 200,
+    "data": {
+        "items": [
+            {
+                "id": 139579,
+                "basePrice": 6950,
+                "name": "Արարատ Կոնյակ Նվեր Տուփ 3տ 0.7լ",
+                "nameEn": "Ararat Cognac Gift Box 3years 0.7l",
+                "alias": "product/carrefour/ararat-cognac-gift-box-3years-07l/10020",
+                "category": {
+                    "name": "Կոնյակ տեղական",
+                    "id": 1795
+                },
+                "description": "Ծավալ՝ 0.7լ\nԱրտադրման երկիր՝ Հայաստան",
+                "supplier": {
+                    "id": 902,
+                    "name": "Քարֆուր",
+                    "alias": "carrefour",
+                    "type": "store",
+                    "img": "media/image/80/a3/23/Carrefour-1DUuCW6tCf20vg.png"
+                },
+                "filters": [
+                    {
+                        "id": 5648,
+                        "name": "Արարատ"
+                    },
+                    {
+                        "id": 6733,
+                        "name": "Հայաստան"
+                    },
+                    {
+                        "id": 7388,
+                        "name": "Կոնյակ տեղական"
+                    },
+                    {
+                        "id": 8261,
+                        "name": "Կոնյակ և բրենդի"
+                    }
+                ],
+                "imagesPaths": {
+                    "large": "media/image/80/82/85/careefour_16_0117_10020.webp",
+                    "small": "media/image/d6/2e/e9/careefour_16_0117_10020_200x200@2x.webp"
+                },
+                "variants": [
+                    {
+                        "id": 139596,
+                        "inStock": 999999,
+                        "lastStock": 0,
+                        "maxPurchase": 100000,
+                        "minPurchase": 1,
+                        "purchaseStep": 1,
+                        "price": 6950,
+                        "currencySymbol": "֏",
+                        "unit": "unit",
+                        "isDefault": true,
+                        "orderNumber": "10020",
+                        "supplierNumber": "10020",
+                        "ean": "4850001001911",
+                        "pseudoPrice": 0,
+                        "purchasePrice": 0,
+                        "unitId": 9,
+                        "minUnitPrice": 6950,
+                        "minUnitPseudoPrice": 0
+                    }
+                ],
+                "configurations": [],
+                "mode": 0,
+                "percent": 0,
+                "favorite": 0,
+                "labels": [],
+                "isRestaurantProduct": false,
+                "keywords": "Արարատ,Կոնյակ,Նվեր,Տուփ,3տ,07լ,ararat,арарат,konyak,конйак,nvyer,nver,нвер,tup,туп,3t,3т,07l,07л,Քարֆուր,Երևան,Մոլ,qarfur,karfur,карфур,yerevan,yeryevan,erevan,eryevan,ереван,mol,мол,Ararat,Cognac,Gift,Box,3years,Арарат,Коньяк,Подарочная,коробка,3л,արարատ",
+                "title": "",
+                "gifts": [],
+                "comment": ""
+            },
+            {
+                "id": 139588,
+                "basePrice": 10550,
+                "name": "Արարատ Կոնյակ 5տ 1լ",
+                "nameEn": "Ararat Cognac Gift Box 5years 1l",
+                "alias": "product/carrefour/ararat-cognac-gift-box-5years-1l/64606",
+                "category": {
+                    "name": "Կոնյակ տեղական",
+                    "id": 1795
+                },
+                "description": "Ծավալ՝ 1լ\nԱրտադրման երկիր՝ Հայաստան",
+                "supplier": {
+                    "id": 902,
+                    "name": "Քարֆուր",
+                    "alias": "carrefour",
+                    "type": "store",
+                    "img": "media/image/80/a3/23/Carrefour-1DUuCW6tCf20vg.png"
+                },
+                "filters": [
+                    {
+                        "id": 5648,
+                        "name": "Արարատ"
+                    },
+                    {
+                        "id": 6733,
+                        "name": "Հայաստան"
+                    },
+                    {
+                        "id": 7388,
+                        "name": "Կոնյակ տեղական"
+                    },
+                    {
+                        "id": 8261,
+                        "name": "Կոնյակ և բրենդի"
+                    }
+                ],
+                "imagesPaths": {
+                    "large": "media/image/21/c5/69/careefour_16_0123_64606.webp",
+                    "small": "media/image/6f/d0/f1/careefour_16_0123_64606_200x200@2x.webp"
+                },
+                "variants": [
+                    {
+                        "id": 139605,
+                        "inStock": 999999,
+                        "lastStock": 0,
+                        "maxPurchase": 100000,
+                        "minPurchase": 1,
+                        "purchaseStep": 1,
+                        "price": 10550,
+                        "currencySymbol": "֏",
+                        "unit": "unit",
+                        "isDefault": true,
+                        "orderNumber": "64606",
+                        "supplierNumber": "64606",
+                        "ean": "4850001004851",
+                        "pseudoPrice": 0,
+                        "purchasePrice": 0,
+                        "unitId": 9,
+                        "minUnitPrice": 10550,
+                        "minUnitPseudoPrice": 0
+                    }
+                ],
+                "configurations": [],
+                "mode": 0,
+                "percent": 0,
+                "favorite": 0,
+                "labels": [],
+                "isRestaurantProduct": false,
+                "keywords": "Արարատ,Կոնյակ,5տ,1լ,ararat,арарат,konyak,конйак,5t,5т,1l,1л,Քարֆուր,Երևան,Մոլ,qarfur,karfur,карфур,yerevan,yeryevan,erevan,eryevan,ереван,mol,мол,Ararat,Cognac,Gift,Box,5years,Арарат,Коньяк,5л,արարատ,կոնյակ և բրենդի,konyak ev bryendi,konyak yev bryendi,ko",
+                "title": "",
+                "gifts": [],
+                "comment": ""
+            },
+            {
+                "id": 139604,
+                "basePrice": 3550,
+                "name": "Արարատ Կոնյակ 5տ 0.25լ",
+                "nameEn": "Ararat Cognac 5years 0.25l",
+                "alias": "product/carrefour/ararat-cognac-5years-025l/10115",
+                "category": {
+                    "name": "Կոնյակ տեղական",
+                    "id": 1795
+                },
+                "description": "Ծավալ՝ 0.25լ\nԱրտադրման երկիր՝ Հայաստան",
+                "supplier": {
+                    "id": 902,
+                    "name": "Քարֆուր",
+                    "alias": "carrefour",
+                    "type": "store",
+                    "img": "media/image/80/a3/23/Carrefour-1DUuCW6tCf20vg.png"
+                },
+                "filters": [
+                    {
+                        "id": 5648,
+                        "name": "Արարատ"
+                    },
+                    {
+                        "id": 6733,
+                        "name": "Հայաստան"
+                    },
+                    {
+                        "id": 7388,
+                        "name": "Կոնյակ տեղական"
+                    },
+                    {
+                        "id": 8261,
+                        "name": "Կոնյակ և բրենդի"
+                    }
+                ],
+                "imagesPaths": {
+                    "large": "media/image/63/ef/10/careefour_16_0012_10115.webp",
+                    "small": "media/image/c2/3b/56/careefour_16_0012_10115_200x200@2x.webp"
+                },
+                "variants": [
+                    {
+                        "id": 139621,
+                        "inStock": 999999,
+                        "lastStock": 0,
+                        "maxPurchase": 100000,
+                        "minPurchase": 1,
+                        "purchaseStep": 1,
+                        "price": 3550,
+                        "currencySymbol": "֏",
+                        "unit": "unit",
+                        "isDefault": true,
+                        "orderNumber": "10115",
+                        "supplierNumber": "10115",
+                        "ean": "4850001003434",
+                        "pseudoPrice": 0,
+                        "purchasePrice": 0,
+                        "unitId": 9,
+                        "minUnitPrice": 3550,
+                        "minUnitPseudoPrice": 0
+                    }
+                ],
+                "configurations": [],
+                "mode": 0,
+                "percent": 0,
+                "favorite": 0,
+                "labels": [],
+                "isRestaurantProduct": false,
+                "keywords": "Արարատ,Կոնյակ,5տ,025լ,ararat,арарат,konyak,конйак,5t,5т,025l,025л,Քարֆուր,Երևան,Մոլ,qarfur,karfur,карфур,yerevan,yeryevan,erevan,eryevan,ереван,mol,мол,Ararat,Cognac,5years,Арарат,Коньяк,5л,արարատ,կոնյակ և բրենդի,konyak ev bryendi,konyak yev bryendi,konya",
+                "title": "",
+                "gifts": [],
+                "comment": ""
+            },
+            {
+                "id": 320387,
+                "basePrice": 33900,
+                "name": "Արարատ Վասպուրական Կոնյակ Նվեր տուփ 15տ 0.7լ",
+                "nameEn": "Ararat Vaspurakan Cognac Gift box 15 years 0.7l",
+                "alias": "product/carrefour/ararat-vaspurakan-cognac-gift-box-15-years-07l/77049",
+                "category": {
+                    "name": "Կոնյակ տեղական",
+                    "id": 1795
+                },
+                "description": "<p>Ծավալ՝ 0.7լ</p>\n<p>Արտադրման երկիր՝ Հայաստան</p>",
+                "supplier": {
+                    "id": 902,
+                    "name": "Քարֆուր",
+                    "alias": "carrefour",
+                    "type": "store",
+                    "img": "media/image/80/a3/23/Carrefour-1DUuCW6tCf20vg.png"
+                },
+                "filters": [
+                    {
+                        "id": 5648,
+                        "name": "Արարատ"
+                    },
+                    {
+                        "id": 6733,
+                        "name": "Հայաստան"
+                    },
+                    {
+                        "id": 7388,
+                        "name": "Կոնյակ տեղական"
+                    },
+                    {
+                        "id": 8261,
+                        "name": "Կոնյակ և բրենդի"
+                    }
+                ],
+                "imagesPaths": {
+                    "large": "media/image/61/3d/ee/Ararat-Vaspurakan-Cognac-Gift-box-15-years-0-7l.webp",
+                    "small": "media/image/fa/ef/ae/Ararat-Vaspurakan-Cognac-Gift-box-15-years-0-7l_200x200@2x.webp"
+                },
+                "variants": [
+                    {
+                        "id": 336120,
+                        "inStock": 999999,
+                        "lastStock": 0,
+                        "maxPurchase": 100000,
+                        "minPurchase": 1,
+                        "purchaseStep": 1,
+                        "price": 33900,
+                        "currencySymbol": "֏",
+                        "unit": "unit",
+                        "isDefault": true,
+                        "orderNumber": "77049",
+                        "supplierNumber": "77049",
+                        "ean": "4850001005919",
+                        "pseudoPrice": 0,
+                        "purchasePrice": 0,
+                        "unitId": 9,
+                        "minUnitPrice": 33900,
+                        "minUnitPseudoPrice": 0
+                    }
+                ],
+                "configurations": [],
+                "mode": 0,
+                "percent": 0,
+                "favorite": 0,
+                "labels": [],
+                "isRestaurantProduct": false,
+                "keywords": "Արարատ,Վասպուրական,Կոնյակ,Նվեր,տուփ,15տ,07լ,ararat,арарат,vaspurakan,васпуракан,konyak,конйак,nvyer,nver,нвер,tup,туп,15t,15т,07l,07л,Քարֆուր,Երևան,Մոլ,qarfur,karfur,карфур,yerevan,yeryevan,erevan,eryevan,ереван,mol,мол,Ararat,Vaspurakan,Cognac,Gift,box,1",
+                "title": null,
+                "gifts": [],
+                "comment": ""
+            },
+            {
+                "id": 151961,
+                "basePrice": 285000,
+                "name": "Արարատ Կոնյակ Էրեբունի 30Տ 0.7լ",
+                "nameEn": "Ararat Cognac Erebuni 30Y 0.7l",
+                "alias": "product/carrefour/ararat-cognac-erebuni-30y-07l/50916",
+                "category": {
+                    "name": "Կոնյակ տեղական",
+                    "id": 1795
+                },
+                "description": "Ծավալ՝ 0.7լ\nԱրտադրման երկիր՝ Հայաստան",
+                "supplier": {
+                    "id": 902,
+                    "name": "Քարֆուր",
+                    "alias": "carrefour",
+                    "type": "store",
+                    "img": "media/image/80/a3/23/Carrefour-1DUuCW6tCf20vg.png"
+                },
+                "filters": [
+                    {
+                        "id": 5648,
+                        "name": "Արարատ"
+                    },
+                    {
+                        "id": 6733,
+                        "name": "Հայաստան"
+                    },
+                    {
+                        "id": 7388,
+                        "name": "Կոնյակ տեղական"
+                    },
+                    {
+                        "id": 8261,
+                        "name": "Կոնյակ և բրենդի"
+                    }
+                ],
+                "imagesPaths": {
+                    "large": "media/image/92/e8/76/carrefour17_0029_50916.webp",
+                    "small": "media/image/2a/91/7e/carrefour17_0029_50916_200x200@2x.webp"
+                },
+                "variants": [
+                    {
+                        "id": 152084,
+                        "inStock": 999999,
+                        "lastStock": 0,
+                        "maxPurchase": 100000,
+                        "minPurchase": 1,
+                        "purchaseStep": 1,
+                        "price": 285000,
+                        "currencySymbol": "֏",
+                        "unit": "unit",
+                        "isDefault": true,
+                        "orderNumber": "50916",
+                        "supplierNumber": "50916",
+                        "ean": "4850001002215",
+                        "pseudoPrice": 0,
+                        "purchasePrice": 0,
+                        "unitId": 9,
+                        "minUnitPrice": 285000,
+                        "minUnitPseudoPrice": 0
+                    }
+                ],
+                "configurations": [],
+                "mode": 0,
+                "percent": 0,
+                "favorite": 0,
+                "labels": [],
+                "isRestaurantProduct": false,
+                "keywords": "Արարատ,Կոնյակ,Էրեբունի,30Տ,07լ,ararat,арарат,konyak,конйак,eryebuni,erebuni,эребуни,30t,30т,07l,07л,Քարֆուր,Երևան,Մոլ,qarfur,karfur,карфур,yerevan,yeryevan,erevan,eryevan,ереван,mol,мол,Ararat,Cognac,Erebuni,30Y,Арарат,Коньяк,Эребуни,30Л,արարատ,կոնյակ և բ",
+                "title": "",
+                "gifts": [],
+                "comment": ""
+            },
+            {
+                "id": 151962,
+                "basePrice": 27990,
+                "name": "Արարատ Կոնյակ Երևան 10Տ 0.7լ",
+                "nameEn": "Ararat Cognac Yerevan 10Y 0.7l",
+                "alias": "product/carrefour/ararat-cognac-yerevan-10y-07l/62129",
+                "category": {
+                    "name": "Կոնյակ տեղական",
+                    "id": 1795
+                },
+                "description": "Ծավալ՝ 0.7լ\nԱրտադրման երկիր՝ Հայաստան",
+                "supplier": {
+                    "id": 902,
+                    "name": "Քարֆուր",
+                    "alias": "carrefour",
+                    "type": "store",
+                    "img": "media/image/80/a3/23/Carrefour-1DUuCW6tCf20vg.png"
+                },
+                "filters": [
+                    {
+                        "id": 5648,
+                        "name": "Արարատ"
+                    },
+                    {
+                        "id": 6733,
+                        "name": "Հայաստան"
+                    },
+                    {
+                        "id": 7388,
+                        "name": "Կոնյակ տեղական"
+                    },
+                    {
+                        "id": 8261,
+                        "name": "Կոնյակ և բրենդի"
+                    }
+                ],
+                "imagesPaths": {
+                    "large": "media/image/9c/a7/12/carrefour11_0014_62129.webp",
+                    "small": "media/image/64/04/53/carrefour11_0014_62129_200x200@2x.webp"
+                },
+                "variants": [
+                    {
+                        "id": 152085,
+                        "inStock": 999999,
+                        "lastStock": 0,
+                        "maxPurchase": 100000,
+                        "minPurchase": 1,
+                        "purchaseStep": 1,
+                        "price": 27990,
+                        "currencySymbol": "֏",
+                        "unit": "unit",
+                        "isDefault": true,
+                        "orderNumber": "62129",
+                        "supplierNumber": "62129",
+                        "ean": "4850001005094",
+                        "pseudoPrice": 0,
+                        "purchasePrice": 0,
+                        "unitId": 9,
+                        "minUnitPrice": 27990,
+                        "minUnitPseudoPrice": 0
+                    }
+                ],
+                "configurations": [],
+                "mode": 0,
+                "percent": 0,
+                "favorite": 0,
+                "labels": [],
+                "isRestaurantProduct": false,
+                "keywords": "Արարատ,Կոնյակ,Երևան,10Տ,07լ,ararat,арарат,konyak,конйак,yerevan,yeryevan,erevan,eryevan,ереван,10t,10т,07l,07л,Քարֆուր,Մոլ,qarfur,karfur,карфур,mol,мол,Ararat,Cognac,Yerevan,10Y,Арарат,Коньяк,Ереван,10Л,արարատ,կոնյակ և բրենդի,konyak ev bryendi,konyak yev ",
+                "title": "",
+                "gifts": [],
+                "comment": ""
+            },
+            {
+                "id": 139592,
+                "basePrice": 17890,
+                "name": "Արարատ 5տ 0.5լx3",
+                "nameEn": "Ararat 5 Y 0.5l X3",
+                "alias": "product/carrefour/ararat-5-y-05l-x3/46359",
+                "category": {
+                    "name": "Կոնյակ տեղական",
+                    "id": 1795
+                },
+                "description": "Ծավալ՝ 0.5լ x 3\nԱրտադրման երկիր՝ Հայաստան",
+                "supplier": {
+                    "id": 902,
+                    "name": "Քարֆուր",
+                    "alias": "carrefour",
+                    "type": "store",
+                    "img": "media/image/80/a3/23/Carrefour-1DUuCW6tCf20vg.png"
+                },
+                "filters": [
+                    {
+                        "id": 5648,
+                        "name": "Արարատ"
+                    },
+                    {
+                        "id": 6733,
+                        "name": "Հայաստան"
+                    },
+                    {
+                        "id": 7388,
+                        "name": "Կոնյակ տեղական"
+                    },
+                    {
+                        "id": 8261,
+                        "name": "Կոնյակ և բրենդի"
+                    }
+                ],
+                "imagesPaths": {
+                    "large": "media/image/19/75/8e/careefour_16_0129_46359.webp",
+                    "small": "media/image/de/52/4d/careefour_16_0129_46359_200x200@2x.webp"
+                },
+                "variants": [
+                    {
+                        "id": 139609,
+                        "inStock": 999999,
+                        "lastStock": 0,
+                        "maxPurchase": 100000,
+                        "minPurchase": 1,
+                        "purchaseStep": 1,
+                        "price": 17890,
+                        "currencySymbol": "֏",
+                        "unit": "unit",
+                        "isDefault": true,
+                        "orderNumber": "46359",
+                        "supplierNumber": "46359",
+                        "ean": "4850001001638",
+                        "pseudoPrice": 0,
+                        "purchasePrice": 0,
+                        "unitId": 9,
+                        "minUnitPrice": 17890,
+                        "minUnitPseudoPrice": 0
+                    }
+                ],
+                "configurations": [],
+                "mode": 0,
+                "percent": 0,
+                "favorite": 0,
+                "labels": [],
+                "isRestaurantProduct": false,
+                "keywords": "Արարատ,5տ,05լx3,ararat,арарат,5t,5т,05lx3,05лx3,Քարֆուր,Երևան,Մոլ,qarfur,karfur,карфур,yerevan,yeryevan,erevan,eryevan,ереван,mol,мол,Ararat,5,Y,05l,X3,Арарат,5л,արարատ,կոնյակ և բրենդի,konyak ev bryendi,konyak yev bryendi,konyak ev brendi,konyak yev brend",
+                "title": "",
+                "gifts": [],
+                "comment": ""
+            },
+            {
+                "id": 139609,
+                "basePrice": 4950,
+                "name": "Արարատ Կոնյակ Նվեր Տուփ 3տ 0.5լ",
+                "nameEn": "Ararat Cognac Gift Box 3years 0.5l",
+                "alias": "product/carrefour/ararat-cognac-gift-box-3years-05l/10019",
+                "category": {
+                    "name": "Կոնյակ տեղական",
+                    "id": 1795
+                },
+                "description": "Ծավալ՝ 0.5լ\nԱրտադրման երկիր՝ Հայաստան",
+                "supplier": {
+                    "id": 902,
+                    "name": "Քարֆուր",
+                    "alias": "carrefour",
+                    "type": "store",
+                    "img": "media/image/80/a3/23/Carrefour-1DUuCW6tCf20vg.png"
+                },
+                "filters": [
+                    {
+                        "id": 5648,
+                        "name": "Արարատ"
+                    },
+                    {
+                        "id": 6733,
+                        "name": "Հայաստան"
+                    },
+                    {
+                        "id": 7388,
+                        "name": "Կոնյակ տեղական"
+                    },
+                    {
+                        "id": 8261,
+                        "name": "Կոնյակ և բրենդի"
+                    }
+                ],
+                "imagesPaths": {
+                    "large": "media/image/81/d7/60/careefour_16_0124_10019.webp",
+                    "small": "media/image/71/23/2b/careefour_16_0124_10019_200x200@2x.webp"
+                },
+                "variants": [
+                    {
+                        "id": 139626,
+                        "inStock": 999999,
+                        "lastStock": 0,
+                        "maxPurchase": 100000,
+                        "minPurchase": 1,
+                        "purchaseStep": 1,
+                        "price": 4950,
+                        "currencySymbol": "֏",
+                        "unit": "unit",
+                        "isDefault": true,
+                        "orderNumber": "10019",
+                        "supplierNumber": "10019",
+                        "ean": "4850001001904",
+                        "pseudoPrice": 0,
+                        "purchasePrice": 0,
+                        "unitId": 9,
+                        "minUnitPrice": 4950,
+                        "minUnitPseudoPrice": 0
+                    }
+                ],
+                "configurations": [],
+                "mode": 0,
+                "percent": 0,
+                "favorite": 0,
+                "labels": [],
+                "isRestaurantProduct": false,
+                "keywords": "Արարատ,Կոնյակ,Նվեր,Տուփ,3տ,05լ,ararat,арарат,konyak,конйак,nvyer,nver,нвер,tup,туп,3t,3т,05l,05л,Քարֆուր,Երևան,Մոլ,qarfur,karfur,карфур,yerevan,yeryevan,erevan,eryevan,ереван,mol,мол,Ararat,Cognac,Gift,Box,3years,Арарат,Коньяк,Подарочная,коробка,3лет,արար",
+                "title": "",
+                "gifts": [],
+                "comment": ""
+            },
+            {
+                "id": 151963,
+                "basePrice": 10990,
+                "name": "Արարատ Ծիրանի Բրենդի 0.7լ",
+                "nameEn": "Ararat Apricot Brandy 0.7l",
+                "alias": "product/carrefour/ararat-apricot-brandy-07l/67606",
+                "category": {
+                    "name": "Բրենդի տեղական",
+                    "id": 1885
+                },
+                "description": "Ծավալ՝ 0.7լ\nԱրտադրման երկիր՝ Հայաստան",
+                "supplier": {
+                    "id": 902,
+                    "name": "Քարֆուր",
+                    "alias": "carrefour",
+                    "type": "store",
+                    "img": "media/image/80/a3/23/Carrefour-1DUuCW6tCf20vg.png"
+                },
+                "filters": [
+                    {
+                        "id": 5648,
+                        "name": "Արարատ"
+                    },
+                    {
+                        "id": 6733,
+                        "name": "Հայաստան"
+                    },
+                    {
+                        "id": 6922,
+                        "name": "Բրենդի տեղական"
+                    },
+                    {
+                        "id": 8261,
+                        "name": "Կոնյակ և բրենդի"
+                    }
+                ],
+                "imagesPaths": {
+                    "large": "media/image/10/86/22/carrefour29_0047_67606.webp",
+                    "small": "media/image/c7/56/50/carrefour29_0047_67606_200x200@2x.webp"
+                },
+                "variants": [
+                    {
+                        "id": 152086,
+                        "inStock": 999999,
+                        "lastStock": 0,
+                        "maxPurchase": 100000,
+                        "minPurchase": 1,
+                        "purchaseStep": 1,
+                        "price": 10990,
+                        "currencySymbol": "֏",
+                        "unit": "unit",
+                        "isDefault": true,
+                        "orderNumber": "67606",
+                        "supplierNumber": "67606",
+                        "ean": "4850001005285",
+                        "pseudoPrice": 0,
+                        "purchasePrice": 0,
+                        "unitId": 9,
+                        "minUnitPrice": 10990,
+                        "minUnitPseudoPrice": 0
+                    }
+                ],
+                "configurations": [],
+                "mode": 0,
+                "percent": 0,
+                "favorite": 0,
+                "labels": [],
+                "isRestaurantProduct": false,
+                "keywords": "Արարատ,Ծիրանի,Բրենդի,07լ,ararat,арарат,cirani,tsirani,цирани,bryendi,brendi,бренди,07l,07л,Քարֆուր,Երևան,Մոլ,qarfur,karfur,карфур,yerevan,yeryevan,erevan,eryevan,ереван,mol,мол,Ararat,Apricot,Brandy,Арарат,Абрикосовый,արարատ,կոնյակ և բրենդի,konyak ev brye",
+                "title": "",
+                "gifts": [],
+                "comment": ""
+            },
+            {
+                "id": 155479,
+                "basePrice": 470,
+                "name": "Արարատ Գարեջուր 0.5լ",
+                "nameEn": "Ararat Beer 0.5l",
+                "alias": "product/carrefour/ararat-beer-05l/13872",
+                "category": {
+                    "name": "Գարեջուր տեղական",
+                    "id": 1843
+                },
+                "description": "Ծավալ՝ 0.5լ\n\nԱրտադրման երկիր՝ Հայաստան",
+                "supplier": {
+                    "id": 902,
+                    "name": "Քարֆուր",
+                    "alias": "carrefour",
+                    "type": "store",
+                    "img": "media/image/80/a3/23/Carrefour-1DUuCW6tCf20vg.png"
+                },
+                "filters": [
+                    {
+                        "id": 5648,
+                        "name": "Արարատ"
+                    },
+                    {
+                        "id": 6784,
+                        "name": "Գարեջուր տեղական"
+                    },
+                    {
+                        "id": 8254,
+                        "name": "Գարեջուր"
+                    }
+                ],
+                "imagesPaths": {
+                    "large": "media/image/33/86/0d/carrefour36_0007_13872.webp",
+                    "small": "media/image/86/dc/23/carrefour36_0007_13872_200x200@2x.webp"
+                },
+                "variants": [
+                    {
+                        "id": 160718,
+                        "inStock": 999999,
+                        "lastStock": 0,
+                        "maxPurchase": 100000,
+                        "minPurchase": 1,
+                        "purchaseStep": 1,
+                        "price": 470,
+                        "currencySymbol": "֏",
+                        "unit": null,
+                        "isDefault": true,
+                        "orderNumber": "13872",
+                        "supplierNumber": "13872",
+                        "ean": "4850006070219",
+                        "pseudoPrice": 0,
+                        "purchasePrice": 0,
+                        "unitId": null,
+                        "minUnitPrice": 470,
+                        "minUnitPseudoPrice": 0
+                    }
+                ],
+                "configurations": [],
+                "mode": 0,
+                "percent": 0,
+                "favorite": 0,
+                "labels": [],
+                "isRestaurantProduct": false,
+                "keywords": "Արարատ,Գարեջուր,05լ,ararat,арарат,garyejur,garejur,гареджур,05l,05л,Քարֆուր,Երևան,Մոլ,qarfur,karfur,карфур,yerevan,yeryevan,erevan,eryevan,ереван,mol,мол,Ararat,Beer,Арарат,Пиво,արարատ,գարեջուր,գարեջուր տեղական,garyejur tyeghakan,garyejur tyexakan,garyeju",
+                "title": "",
+                "gifts": [],
+                "comment": ""
+            },
+            {
+                "id": 139605,
+                "basePrice": 2950,
+                "name": "Արարատ Կոնյակ 3տ 0.25լ",
+                "nameEn": "Ararat Cognac 3years 0.25l",
+                "alias": "product/carrefour/ararat-cognac-3years-025l/10116",
+                "category": {
+                    "name": "Կոնյակ տեղական",
+                    "id": 1795
+                },
+                "description": "Ծավալ՝ 0.25լ\nԱրտադրման երկիր՝ Հայաստան",
+                "supplier": {
+                    "id": 902,
+                    "name": "Քարֆուր",
+                    "alias": "carrefour",
+                    "type": "store",
+                    "img": "media/image/80/a3/23/Carrefour-1DUuCW6tCf20vg.png"
+                },
+                "filters": [
+                    {
+                        "id": 5648,
+                        "name": "Արարատ"
+                    },
+                    {
+                        "id": 6733,
+                        "name": "Հայաստան"
+                    },
+                    {
+                        "id": 7388,
+                        "name": "Կոնյակ տեղական"
+                    },
+                    {
+                        "id": 8261,
+                        "name": "Կոնյակ և բրենդի"
+                    }
+                ],
+                "imagesPaths": {
+                    "large": "media/image/e3/51/17/careefour_16_0101_10116.webp",
+                    "small": "media/image/99/7b/bf/careefour_16_0101_10116_200x200@2x.webp"
+                },
+                "variants": [
+                    {
+                        "id": 139622,
+                        "inStock": 999999,
+                        "lastStock": 0,
+                        "maxPurchase": 100000,
+                        "minPurchase": 1,
+                        "purchaseStep": 1,
+                        "price": 2950,
+                        "currencySymbol": "֏",
+                        "unit": "unit",
+                        "isDefault": true,
+                        "orderNumber": "10116",
+                        "supplierNumber": "10116",
+                        "ean": "4850001003427",
+                        "pseudoPrice": 0,
+                        "purchasePrice": 0,
+                        "unitId": 9,
+                        "minUnitPrice": 2950,
+                        "minUnitPseudoPrice": 0
+                    }
+                ],
+                "configurations": [],
+                "mode": 0,
+                "percent": 0,
+                "favorite": 0,
+                "labels": [],
+                "isRestaurantProduct": false,
+                "keywords": "Արարատ,Կոնյակ,3տ,025լ,ararat,арарат,konyak,конйак,3t,3т,025l,025л,Քարֆուր,Երևան,Մոլ,qarfur,karfur,карфур,yerevan,yeryevan,erevan,eryevan,ереван,mol,мол,Ararat,Cognac,3years,Арарат,Коньяк,3л,արարատ,կոնյակ և բրենդի,konyak ev bryendi,konyak yev bryendi,konya",
+                "title": "",
+                "gifts": [],
+                "comment": ""
+            },
+            {
+                "id": 139612,
+                "basePrice": 8650,
+                "name": "Արարատ Կոնյակ Նվեր Տուփ 5տ 0.7լ",
+                "nameEn": "Ararat Cognac Gift Box 5years 0.7l",
+                "alias": "product/carrefour/ararat-cognac-gift-box-5years-07l/10021",
+                "category": {
+                    "name": "Կոնյակ տեղական",
+                    "id": 1795
+                },
+                "description": "Ծավալ՝ 0.7լ\nԱրտադրման երկիր՝ Հայաստան",
+                "supplier": {
+                    "id": 902,
+                    "name": "Քարֆուր",
+                    "alias": "carrefour",
+                    "type": "store",
+                    "img": "media/image/80/a3/23/Carrefour-1DUuCW6tCf20vg.png"
+                },
+                "filters": [
+                    {
+                        "id": 5648,
+                        "name": "Արարատ"
+                    },
+                    {
+                        "id": 6733,
+                        "name": "Հայաստան"
+                    },
+                    {
+                        "id": 7388,
+                        "name": "Կոնյակ տեղական"
+                    },
+                    {
+                        "id": 8261,
+                        "name": "Կոնյակ և բրենդի"
+                    }
+                ],
+                "imagesPaths": {
+                    "large": "media/image/86/d1/1d/careefour_16_0037_10021.webp",
+                    "small": "media/image/db/ce/8b/careefour_16_0037_10021_200x200@2x.webp"
+                },
+                "variants": [
+                    {
+                        "id": 139629,
+                        "inStock": 999999,
+                        "lastStock": 0,
+                        "maxPurchase": 100000,
+                        "minPurchase": 1,
+                        "purchaseStep": 1,
+                        "price": 8650,
+                        "currencySymbol": "֏",
+                        "unit": "unit",
+                        "isDefault": true,
+                        "orderNumber": "10021",
+                        "supplierNumber": "10021",
+                        "ean": "4850001001942",
+                        "pseudoPrice": 0,
+                        "purchasePrice": 0,
+                        "unitId": 9,
+                        "minUnitPrice": 8650,
+                        "minUnitPseudoPrice": 0
+                    }
+                ],
+                "configurations": [],
+                "mode": 0,
+                "percent": 0,
+                "favorite": 0,
+                "labels": [],
+                "isRestaurantProduct": false,
+                "keywords": "Արարատ,Կոնյակ,Նվեր,Տուփ,5տ,07լ,ararat,арарат,konyak,конйак,nvyer,nver,нвер,tup,туп,5t,5т,07l,07л,Քարֆուր,Երևան,Մոլ,qarfur,karfur,карфур,yerevan,yeryevan,erevan,eryevan,ереван,mol,мол,Ararat,Cognac,Gift,Box,5years,Арарат,Коньяк,Подарочная,коробка,5л,արարատ",
+                "title": "",
+                "gifts": [],
+                "comment": ""
+            },
+            {
+                "id": 139616,
+                "basePrice": 6350,
+                "name": "Արարատ Կոնյակ 5տ 0.5լ",
+                "nameEn": "Ararat Cognac Gift Box 5years 0.5l",
+                "alias": "product/carrefour/ararat-cognac-gift-box-5years-05l/40732",
+                "category": {
+                    "name": "Կոնյակ տեղական",
+                    "id": 1795
+                },
+                "description": "Ծավալ՝ 0.5լ\nԱրտադրման երկիր՝ Հայաստան",
+                "supplier": {
+                    "id": 902,
+                    "name": "Քարֆուր",
+                    "alias": "carrefour",
+                    "type": "store",
+                    "img": "media/image/80/a3/23/Carrefour-1DUuCW6tCf20vg.png"
+                },
+                "filters": [
+                    {
+                        "id": 5648,
+                        "name": "Արարատ"
+                    },
+                    {
+                        "id": 6733,
+                        "name": "Հայաստան"
+                    },
+                    {
+                        "id": 7388,
+                        "name": "Կոնյակ տեղական"
+                    },
+                    {
+                        "id": 8261,
+                        "name": "Կոնյակ և բրենդի"
+                    }
+                ],
+                "imagesPaths": {
+                    "large": "media/image/48/4d/6b/careefour_17_0046_40732.webp",
+                    "small": "media/image/1e/c4/0d/careefour_17_0046_40732_200x200@2x.webp"
+                },
+                "variants": [
+                    {
+                        "id": 139633,
+                        "inStock": 999999,
+                        "lastStock": 0,
+                        "maxPurchase": 100000,
+                        "minPurchase": 1,
+                        "purchaseStep": 1,
+                        "price": 6350,
+                        "currencySymbol": "֏",
+                        "unit": "unit",
+                        "isDefault": true,
+                        "orderNumber": "40732",
+                        "supplierNumber": "40732",
+                        "ean": "4850001001935",
+                        "pseudoPrice": 0,
+                        "purchasePrice": 0,
+                        "unitId": 9,
+                        "minUnitPrice": 6350,
+                        "minUnitPseudoPrice": 0
+                    }
+                ],
+                "configurations": [],
+                "mode": 0,
+                "percent": 0,
+                "favorite": 0,
+                "labels": [],
+                "isRestaurantProduct": false,
+                "keywords": "Արարատ,Կոնյակ,5տ,05լ,ararat,арарат,konyak,конйак,5t,5т,05l,05л,Քարֆուր,Երևան,Մոլ,qarfur,karfur,карфур,yerevan,yeryevan,erevan,eryevan,ереван,mol,мол,Ararat,Cognac,Gift,Box,5years,Арарат,Коньяк,5л,արարատ,կոնյակ և բրենդի,konyak ev bryendi,konyak yev bryendi",
+                "title": "",
+                "gifts": [],
+                "comment": ""
+            },
+            {
+                "id": 320386,
+                "basePrice": 19800,
+                "name": "Արարատ Կոնյակ Ընտիր 7տ 0.7լ",
+                "nameEn": "Ararat Cognac Otborny 7 years 0.7l",
+                "alias": "product/carrefour/ararat-cognac-otborny-7-years-07l/92778",
+                "category": {
+                    "name": "Կոնյակ տեղական",
+                    "id": 1795
+                },
+                "description": "<p>Ծավալ՝ 0.7լ</p>\n<p>Արտադրման երկիր՝ Հայաստան</p>",
+                "supplier": {
+                    "id": 902,
+                    "name": "Քարֆուր",
+                    "alias": "carrefour",
+                    "type": "store",
+                    "img": "media/image/80/a3/23/Carrefour-1DUuCW6tCf20vg.png"
+                },
+                "filters": [
+                    {
+                        "id": 5648,
+                        "name": "Արարատ"
+                    },
+                    {
+                        "id": 6733,
+                        "name": "Հայաստան"
+                    },
+                    {
+                        "id": 7388,
+                        "name": "Կոնյակ տեղական"
+                    },
+                    {
+                        "id": 8261,
+                        "name": "Կոնյակ և բրենդի"
+                    }
+                ],
+                "imagesPaths": {
+                    "large": "media/image/17/a9/cd/Ararat-Cognac-Otborny-7-years-0-7l.webp",
+                    "small": "media/image/bb/a4/0e/Ararat-Cognac-Otborny-7-years-0-7l_200x200@2x.webp"
+                },
+                "variants": [
+                    {
+                        "id": 336119,
+                        "inStock": 999999,
+                        "lastStock": 0,
+                        "maxPurchase": 100000,
+                        "minPurchase": 1,
+                        "purchaseStep": 1,
+                        "price": 19800,
+                        "currencySymbol": "֏",
+                        "unit": "unit",
+                        "isDefault": true,
+                        "orderNumber": "92778",
+                        "supplierNumber": "92778",
+                        "ean": "4850001007586",
+                        "pseudoPrice": 0,
+                        "purchasePrice": 0,
+                        "unitId": 9,
+                        "minUnitPrice": 19800,
+                        "minUnitPseudoPrice": 0
+                    }
+                ],
+                "configurations": [],
+                "mode": 0,
+                "percent": 0,
+                "favorite": 0,
+                "labels": [],
+                "isRestaurantProduct": false,
+                "keywords": "Արարատ,Կոնյակ,Ընտիր,7տ,07լ,ararat,арарат,konyak,конйак,@ntir,yntir,ынтир,7t,7т,07l,07л,Քարֆուր,Երևան,Մոլ,qarfur,karfur,карфур,yerevan,yeryevan,erevan,eryevan,ереван,mol,мол,Ararat,Cognac,Otborny,7,years,Арарат,Коньяк,Отборный,7л,արարատ,կոնյակ և բրենդի,kon",
+                "title": null,
+                "gifts": [],
+                "comment": ""
+            }
+        ],
+        "totalCount": 14,
+        "filters": {
+            "minPrice": {
+                "value": 275
+            },
+            "maxPrice": {
+                "value": 285000
+            },
+            "properties": [
+                {
+                    "id": 22,
+                    "name": "Արտադրման երկիր",
+                    "values": [
+                        {
+                            "id": 6733,
+                            "name": "Հայաստան",
+                            "count": 259
+                        },
+                        {
+                            "id": 6751,
+                            "name": "Ֆրանսիա",
+                            "count": 70
+                        },
+                        {
+                            "id": 6740,
+                            "name": "Ռուսաստան",
+                            "count": 65
+                        },
+                        {
+                            "id": 6777,
+                            "name": "Մեծ Բրիտանիա",
+                            "count": 41
+                        },
+                        {
+                            "id": 6765,
+                            "name": "Իտալիա",
+                            "count": 24
+                        },
+                        {
+                            "id": 8806,
+                            "name": "Մեքսիկա",
+                            "count": 16
+                        },
+                        {
+                            "id": 6890,
+                            "name": "Ուկրաինա",
+                            "count": 15
+                        },
+                        {
+                            "id": 6748,
+                            "name": "Գերմանիա",
+                            "count": 12
+                        },
+                        {
+                            "id": 6756,
+                            "name": "ԱՄՆ",
+                            "count": 12
+                        },
+                        {
+                            "id": 8724,
+                            "name": "Շոտլանդիա",
+                            "count": 12
+                        },
+                        {
+                            "id": 7221,
+                            "name": "Շվեդիա",
+                            "count": 8
+                        },
+                        {
+                            "id": 6907,
+                            "name": "Իսպանիա",
+                            "count": 7
+                        },
+                        {
+                            "id": 8802,
+                            "name": "Կուբա",
+                            "count": 7
+                        },
+                        {
+                            "id": 6897,
+                            "name": "Ֆինլանդիա",
+                            "count": 5
+                        },
+                        {
+                            "id": 6877,
+                            "name": "Վրաստան",
+                            "count": 4
+                        },
+                        {
+                            "id": 6770,
+                            "name": "Լեհաստան",
+                            "count": 3
+                        },
+                        {
+                            "id": 6795,
+                            "name": "Չեխիա",
+                            "count": 3
+                        },
+                        {
+                            "id": 8526,
+                            "name": "Չիլի",
+                            "count": 2
+                        },
+                        {
+                            "id": 8646,
+                            "name": "Ճապոնիա",
+                            "count": 2
+                        },
+                        {
+                            "id": 8750,
+                            "name": "Բելգիա",
+                            "count": 2
+                        },
+                        {
+                            "id": 8832,
+                            "name": "Իռլանդիա",
+                            "count": 2
+                        },
+                        {
+                            "id": 6745,
+                            "name": "Բելառուս",
+                            "count": 1
+                        },
+                        {
+                            "id": 7599,
+                            "name": "Լիտվա",
+                            "count": 1
+                        },
+                        {
+                            "id": 8725,
+                            "name": "Նիդեռլանդներ",
+                            "count": 1
+                        }
+                    ]
+                },
+                {
+                    "id": 19,
+                    "name": "Բրենդ",
+                    "values": [
+                        {
+                            "id": 6327,
+                            "name": "Այլ",
+                            "count": 49
+                        },
+                        {
+                            "id": 6760,
+                            "name": "Քարֆուր",
+                            "count": 29
+                        },
+                        {
+                            "id": 7397,
+                            "name": "Արմենիա Վայն",
+                            "count": 17
+                        },
+                        {
+                            "id": 10525,
+                            "name": "Իջևան",
+                            "count": 15
+                        },
+                        {
+                            "id": 5648,
+                            "name": "Արարատ",
+                            "count": 14
+                        },
+                        {
+                            "id": 6872,
+                            "name": "Բալտիկա",
+                            "count": 13
+                        },
+                        {
+                            "id": 7118,
+                            "name": "Զաքարե",
+                            "count": 13
+                        },
+                        {
+                            "id": 7598,
+                            "name": "Արցախ",
+                            "count": 12
+                        },
+                        {
+                            "id": 5743,
+                            "name": "Կիլիկիա",
+                            "count": 11
+                        },
+                        {
+                            "id": 8763,
+                            "name": "Պռոշյան",
+                            "count": 11
+                        },
+                        {
+                            "id": 5536,
+                            "name": "Նոյ",
+                            "count": 10
+                        },
+                        {
+                            "id": 7854,
+                            "name": "Մարտինի",
+                            "count": 9
+                        },
+                        {
+                            "id": 7690,
+                            "name": "Աբսոլյուտ",
+                            "count": 8
+                        },
+                        {
+                            "id": 7400,
+                            "name": "Տակառ",
+                            "count": 7
+                        },
+                        {
+                            "id": 7691,
+                            "name": "Օլմեկա",
+                            "count": 7
+                        },
+                        {
+                            "id": 6158,
+                            "name": "Կարաս Գինի",
+                            "count": 6
+                        },
+                        {
+                            "id": 7693,
+                            "name": "Ջեյմսոն",
+                            "count": 6
+                        },
+                        {
+                            "id": 7696,
+                            "name": "Չիվազ Ռեգալ",
+                            "count": 6
+                        },
+                        {
+                            "id": 8528,
+                            "name": "Շատո",
+                            "count": 6
+                        },
+                        {
+                            "id": 6921,
+                            "name": "Կոտայք",
+                            "count": 5
+                        },
+                        {
+                            "id": 8803,
+                            "name": "Հավանա Քլաբ",
+                            "count": 5
+                        },
+                        {
+                            "id": 8819,
+                            "name": "Օհանյան",
+                            "count": 5
+                        },
+                        {
+                            "id": 8822,
+                            "name": "Կրեմլին",
+                            "count": 5
+                        },
+                        {
+                            "id": 8825,
+                            "name": "ՄԱՊ",
+                            "count": 5
+                        },
+                        {
+                            "id": 8829,
+                            "name": "Արամե",
+                            "count": 5
+                        },
+                        {
+                            "id": 8836,
+                            "name": "Գրանտս",
+                            "count": 5
+                        },
+                        {
+                            "id": 8855,
+                            "name": "Նեմիրոֆֆ",
+                            "count": 5
+                        },
+                        {
+                            "id": 7121,
+                            "name": "Գյումրի",
+                            "count": 4
+                        },
+                        {
+                            "id": 7364,
+                            "name": "Ախթամար",
+                            "count": 4
+                        },
+                        {
+                            "id": 7603,
+                            "name": "Ցարսկայա",
+                            "count": 4
+                        },
+                        {
+                            "id": 7694,
+                            "name": "Բեխերովկա",
+                            "count": 4
+                        },
+                        {
+                            "id": 7713,
+                            "name": "Հեյնիկեն",
+                            "count": 4
+                        },
+                        {
+                            "id": 7847,
+                            "name": "Բակարդի",
+                            "count": 4
+                        },
+                        {
+                            "id": 8777,
+                            "name": "Բոթթեր",
+                            "count": 4
+                        },
+                        {
+                            "id": 9049,
+                            "name": "Ռդֆ",
+                            "count": 4
+                        },
+                        {
+                            "id": 7602,
+                            "name": "Խորտիցա",
+                            "count": 3
+                        },
+                        {
+                            "id": 7628,
+                            "name": "Անի",
+                            "count": 3
+                        },
+                        {
+                            "id": 7698,
+                            "name": "Բիֆիթեր",
+                            "count": 3
+                        },
+                        {
+                            "id": 7709,
+                            "name": "Ֆինսկի",
+                            "count": 3
+                        },
+                        {
+                            "id": 7714,
+                            "name": "Կոզել",
+                            "count": 3
+                        },
+                        {
+                            "id": 7850,
+                            "name": "Ջեք Դանիելս",
+                            "count": 3
+                        },
+                        {
+                            "id": 8826,
+                            "name": "Ավշար",
+                            "count": 3
+                        },
+                        {
+                            "id": 8828,
+                            "name": "Արմա",
+                            "count": 3
+                        },
+                        {
+                            "id": 8834,
+                            "name": "Գլենլիվետ",
+                            "count": 3
+                        },
+                        {
+                            "id": 8835,
+                            "name": "Ջոննի Ուոքեր",
+                            "count": 3
+                        },
+                        {
+                            "id": 8838,
+                            "name": "Գլենֆիդիկ",
+                            "count": 3
+                        },
+                        {
+                            "id": 8862,
+                            "name": "Միջնաբերդ Ալկո",
+                            "count": 3
+                        },
+                        {
+                            "id": 8909,
+                            "name": "365 գինիներ",
+                            "count": 3
+                        },
+                        {
+                            "id": 6793,
+                            "name": "Պիլզներ",
+                            "count": 2
+                        },
+                        {
+                            "id": 6874,
+                            "name": "Ժատեցկի Գուս",
+                            "count": 2
+                        },
+                        {
+                            "id": 6920,
+                            "name": "Էրեբունի",
+                            "count": 2
+                        },
+                        {
+                            "id": 7122,
+                            "name": "Ալեքսանդրապոլ",
+                            "count": 2
+                        },
+                        {
+                            "id": 7245,
+                            "name": "Մանչեստր",
+                            "count": 2
+                        },
+                        {
+                            "id": 7291,
+                            "name": "Կռոմբախեր",
+                            "count": 2
+                        },
+                        {
+                            "id": 7303,
+                            "name": "Ստելլա",
+                            "count": 2
+                        },
+                        {
+                            "id": 7594,
+                            "name": "Շիրազ",
+                            "count": 2
+                        },
+                        {
+                            "id": 7601,
+                            "name": "Կոսկենկորվա",
+                            "count": 2
+                        },
+                        {
+                            "id": 7606,
+                            "name": "Բադ",
+                            "count": 2
+                        },
+                        {
+                            "id": 7607,
+                            "name": "Լովենբրաու",
+                            "count": 2
+                        },
+                        {
+                            "id": 7697,
+                            "name": "Վիբորովա",
+                            "count": 2
+                        },
+                        {
+                            "id": 7699,
+                            "name": "Բալլանթայս",
+                            "count": 2
+                        },
+                        {
+                            "id": 7845,
+                            "name": "Գրեյ Գուս",
+                            "count": 2
+                        },
+                        {
+                            "id": 7903,
+                            "name": "Զելյոնայա Մարկա",
+                            "count": 2
+                        },
+                        {
+                            "id": 8524,
+                            "name": "Օգյուստ",
+                            "count": 2
+                        },
+                        {
+                            "id": 8716,
+                            "name": "Զուլալ",
+                            "count": 2
+                        },
+                        {
+                            "id": 8790,
+                            "name": "Բադվայզեր",
+                            "count": 2
+                        },
+                        {
+                            "id": 8793,
+                            "name": "Շեյք",
+                            "count": 2
+                        },
+                        {
+                            "id": 8797,
+                            "name": "Ռոմանով",
+                            "count": 2
+                        },
+                        {
+                            "id": 8808,
+                            "name": "Յագերմաստեր",
+                            "count": 2
+                        },
+                        {
+                            "id": 8837,
+                            "name": "Գլենմորանժի",
+                            "count": 2
+                        },
+                        {
+                            "id": 8844,
+                            "name": "Վոզդուխ",
+                            "count": 2
+                        },
+                        {
+                            "id": 8845,
+                            "name": "Ստոլիչնայա",
+                            "count": 2
+                        },
+                        {
+                            "id": 8848,
+                            "name": "Ռուսսկիյ Ստանդարտ",
+                            "count": 2
+                        },
+                        {
+                            "id": 8857,
+                            "name": "Մոնտերիո",
+                            "count": 2
+                        },
+                        {
+                            "id": 8866,
+                            "name": "Բելայա Բերյոզա",
+                            "count": 2
+                        },
+                        {
+                            "id": 8882,
+                            "name": "Կուր",
+                            "count": 2
+                        },
+                        {
+                            "id": 8889,
+                            "name": "Լապլայա",
+                            "count": 2
+                        },
+                        {
+                            "id": 8891,
+                            "name": "Հին Արենի",
+                            "count": 2
+                        },
+                        {
+                            "id": 8895,
+                            "name": "Ղարաբաղ",
+                            "count": 2
+                        },
+                        {
+                            "id": 8910,
+                            "name": "Ջրաղացպանյան",
+                            "count": 2
+                        },
+                        {
+                            "id": 8914,
+                            "name": "Թարիրի",
+                            "count": 2
+                        },
+                        {
+                            "id": 9439,
+                            "name": "Տուս",
+                            "count": 2
+                        },
+                        {
+                            "id": 9810,
+                            "name": "Դառգետ",
+                            "count": 2
+                        },
+                        {
+                            "id": 10581,
+                            "name": "Օշին",
+                            "count": 2
+                        },
+                        {
+                            "id": 5698,
+                            "name": "Բերդաշեն",
+                            "count": 1
+                        },
+                        {
+                            "id": 6201,
+                            "name": "Վեդի Ալկո",
+                            "count": 1
+                        },
+                        {
+                            "id": 6878,
+                            "name": "Նատախտարի",
+                            "count": 1
+                        },
+                        {
+                            "id": 7119,
+                            "name": "Արենի",
+                            "count": 1
+                        },
+                        {
+                            "id": 7246,
+                            "name": "Յագուար",
+                            "count": 1
+                        },
+                        {
+                            "id": 7595,
+                            "name": "Մանե",
+                            "count": 1
+                        },
+                        {
+                            "id": 7596,
+                            "name": "Չարենց",
+                            "count": 1
+                        },
+                        {
+                            "id": 7705,
+                            "name": "Ջոնի Վոլկեր",
+                            "count": 1
+                        },
+                        {
+                            "id": 7712,
+                            "name": "Միլլեր",
+                            "count": 1
+                        },
+                        {
+                            "id": 7851,
+                            "name": "Բոմբայ",
+                            "count": 1
+                        },
+                        {
+                            "id": 7852,
+                            "name": "Գրանտ",
+                            "count": 1
+                        },
+                        {
+                            "id": 8233,
+                            "name": "Կորոնա",
+                            "count": 1
+                        },
+                        {
+                            "id": 8647,
+                            "name": "Նիկկա",
+                            "count": 1
+                        },
+                        {
+                            "id": 8648,
+                            "name": "Պիչինի",
+                            "count": 1
+                        },
+                        {
+                            "id": 8718,
+                            "name": "Զորահ",
+                            "count": 1
+                        },
+                        {
+                            "id": 8731,
+                            "name": "Ոսկեվազ",
+                            "count": 1
+                        },
+                        {
+                            "id": 8784,
+                            "name": "Ստելլա Արտոիս",
+                            "count": 1
+                        },
+                        {
+                            "id": 8787,
+                            "name": "Կրուշովիցա",
+                            "count": 1
+                        },
+                        {
+                            "id": 8799,
+                            "name": "Ռեվո",
+                            "count": 1
+                        },
+                        {
+                            "id": 8804,
+                            "name": "Քոթոթ",
+                            "count": 1
+                        },
+                        {
+                            "id": 8805,
+                            "name": "Մալիբու",
+                            "count": 1
+                        },
+                        {
+                            "id": 8807,
+                            "name": "Կահլուա",
+                            "count": 1
+                        },
+                        {
+                            "id": 8812,
+                            "name": "Հենդրիկս",
+                            "count": 1
+                        },
+                        {
+                            "id": 8813,
+                            "name": "Կամինո",
+                            "count": 1
+                        },
+                        {
+                            "id": 8818,
+                            "name": "Մարտել",
+                            "count": 1
+                        },
+                        {
+                            "id": 8823,
+                            "name": "Հենեսի",
+                            "count": 1
+                        },
+                        {
+                            "id": 8824,
+                            "name": "Մարան գինու սրահ",
+                            "count": 1
+                        },
+                        {
+                            "id": 8833,
+                            "name": "Թալամոր",
+                            "count": 1
+                        },
+                        {
+                            "id": 8840,
+                            "name": "Աբերլո",
+                            "count": 1
+                        },
+                        {
+                            "id": 8850,
+                            "name": "Պյատ Օզյոր",
+                            "count": 1
+                        },
+                        {
+                            "id": 8861,
+                            "name": "Մոնտեպուլչիանո",
+                            "count": 1
+                        },
+                        {
+                            "id": 8878,
+                            "name": "Զոնին",
+                            "count": 1
+                        },
+                        {
+                            "id": 8879,
+                            "name": "Կուաշ",
+                            "count": 1
+                        },
+                        {
+                            "id": 8880,
+                            "name": "Մում",
+                            "count": 1
+                        },
+                        {
+                            "id": 8881,
+                            "name": "Մոե Շանդոն",
+                            "count": 1
+                        },
+                        {
+                            "id": 8884,
+                            "name": "Գանսիա",
+                            "count": 1
+                        },
+                        {
+                            "id": 8885,
+                            "name": "Բլու Նան",
+                            "count": 1
+                        },
+                        {
+                            "id": 8893,
+                            "name": "Քեուշ",
+                            "count": 1
+                        },
+                        {
+                            "id": 8898,
+                            "name": "Ներո",
+                            "count": 1
+                        },
+                        {
+                            "id": 8899,
+                            "name": "Կամար",
+                            "count": 1
+                        },
+                        {
+                            "id": 8900,
+                            "name": "Մարանի",
+                            "count": 1
+                        },
+                        {
+                            "id": 8908,
+                            "name": "Աոկ",
+                            "count": 1
+                        },
+                        {
+                            "id": 8911,
+                            "name": "Ժիգուլյովսկոյե",
+                            "count": 1
+                        },
+                        {
+                            "id": 8916,
+                            "name": "Հոֆբրաու",
+                            "count": 1
+                        },
+                        {
+                            "id": 8917,
+                            "name": "Հայկական Շամպայն",
+                            "count": 1
+                        },
+                        {
+                            "id": 8922,
+                            "name": "Ֆրանս",
+                            "count": 1
+                        },
+                        {
+                            "id": 8924,
+                            "name": "Կագոր",
+                            "count": 1
+                        },
+                        {
+                            "id": 8926,
+                            "name": "Ֆանտինի",
+                            "count": 1
+                        },
+                        {
+                            "id": 8937,
+                            "name": "Սալեո",
+                            "count": 1
+                        },
+                        {
+                            "id": 8962,
+                            "name": "1952",
+                            "count": 1
+                        },
+                        {
+                            "id": 9822,
+                            "name": "Տոկինոտա",
+                            "count": 1
+                        },
+                        {
+                            "id": 9825,
+                            "name": "Գրանդ Մարնիե",
+                            "count": 1
+                        },
+                        {
+                            "id": 9828,
+                            "name": "Գիբսոնս",
+                            "count": 1
+                        },
+                        {
+                            "id": 9829,
+                            "name": "Օլդ Նիք",
+                            "count": 1
+                        },
+                        {
+                            "id": 9830,
+                            "name": "Լեֆֆե",
+                            "count": 1
+                        },
+                        {
+                            "id": 24588,
+                            "name": "Synergetic",
+                            "count": 1
+                        }
+                    ]
+                },
+                {
+                    "id": 37,
+                    "name": "Current",
+                    "values": [
+                        {
+                            "id": 38776,
+                            "name": "Բելառուս",
+                            "count": 1
+                        }
+                    ]
+                }
+            ],
+            "categories": [
+                {
+                    "id": 1328,
+                    "count": 264,
+                    "name": "Գինի"
+                },
+                {
+                    "id": 1766,
+                    "count": 173,
+                    "name": "Օղի"
+                },
+                {
+                    "id": 1320,
+                    "count": 149,
+                    "name": "Գարեջուր"
+                },
+                {
+                    "id": 1342,
+                    "count": 112,
+                    "name": "Կոնյակ և բրենդի"
+                },
+                {
+                    "id": 1324,
+                    "count": 80,
+                    "name": "Ջին, ռոմ և տեկիլա"
+                },
+                {
+                    "id": 1316,
+                    "count": 48,
+                    "name": "Վիսկի և Բուրբոն"
+                },
+                {
+                    "id": 1331,
+                    "count": 45,
+                    "name": "Շամպայն և Փրփրուն գինի"
+                },
+                {
+                    "id": 1336,
+                    "count": 45,
+                    "name": "Ոգելից խմիչքներ"
+                },
+                {
+                    "id": 1322,
+                    "count": 10,
+                    "name": "Վերմուտ և ապերիտիվ"
+                },
+                {
+                    "id": 1326,
+                    "count": 3,
+                    "name": "Սիդեր և կվաս"
+                }
+            ],
+            "suppliers": [
+                {
+                    "id": 902,
+                    "count": 926,
+                    "name": "Քարֆուր",
+                    "type": "store"
+                }
+            ]
+        },
+        "sortings": [
+            {
+                "id": 1,
+                "name": "Ավելացման ամսաթվի",
+                "field": "ReleaseDateSorting",
+                "direction": "DESC"
+            },
+            {
+                "id": 2,
+                "name": "Հայտնիության",
+                "field": "PopularitySorting",
+                "direction": "DESC"
+            },
+            {
+                "id": 3,
+                "name": "Ցածր գնի",
+                "field": "PriceSorting",
+                "direction": "ASC"
+            },
+            {
+                "id": 4,
+                "name": "Բարձր գնի",
+                "field": "PriceSorting",
+                "direction": "DESC"
+            },
+            {
+                "id": 7,
+                "name": "Լավագույն տարբերակներ",
+                "field": "SearchRankingSorting",
+                "direction": "DESC"
+            }
+        ]
+    },
+    "metadata": {
+        "params": {
+            "o": 7,
+            "c": 1315,
+            "f": [
+                "19-5648"
+            ],
+            "dc": false,
+            "skip": 0,
+            "isSale": false,
+            "take": 24,
+            "isStore": true,
+            "onlyIds": false,
+            "isShop": false
+        }
+    }
+}
