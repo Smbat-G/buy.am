@@ -4,8 +4,8 @@ class CarrefourAlcoholicPage {
     elements = {
         filterBtn: () => { return cy.get(carrefourAlcoholicPageLocators.filterBtn) },
         applyBtn: () => { return cy.get(carrefourAlcoholicPageLocators.applyBtn) },
-        brandNameArarat: () => { return cy.get(carrefourAlcoholicPageLocators.brandNameArarat)},
-        productList: () => { return cy.get(carrefourAlcoholicPageLocators.productList)}
+        brandName: () => { return cy.get(carrefourAlcoholicPageLocators.brandName).contains('Արարատ')},
+        productItem: () => { return cy.get(carrefourAlcoholicPageLocators.productItem)}
     }
 
     visit(){

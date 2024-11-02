@@ -1,6 +1,6 @@
 export const carrefourAlcoholicPageLocators = {
-    filterBtn: '[class="mai-button linear-secondary"]',
+    filterBtn: '[class="header-item filter"]',
     applyBtn: '[class="mai-button fill-primary medium"]',
-    brandNameArarat: '[class="filter-multi-select__item filter-multi-select__item--active"]',
-    productList: '[class="menu-list"]'
+    brandName: '[class="filter-multi-select__item"]',
+    productItem: '[class="product-wrapper"]'
 }
