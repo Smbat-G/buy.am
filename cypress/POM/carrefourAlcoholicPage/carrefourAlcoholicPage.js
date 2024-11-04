@@ -14,10 +14,12 @@ class CarrefourAlcoholicPage {
 
     openFilters(){
         this.elements.filterBtn().click()
+        cy.wait(3000)
     }
     
     apply(){
         this.elements.applyBtn().click()
+        cy.wait(2000)
     }
  
 }

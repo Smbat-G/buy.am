@@ -7,7 +7,7 @@ class CarrefourAlcoholicPageAssertion {
         products.each((index,element) => {
           
             console.log(element.innerText);
-            expect(cy.wrap(element)).to.contain(brandName)
+            cy.wrap(element).should('include.text', brandName);
 
             //element.should('contain.text', brandName)
            //cy.wrap(element).contains(brandName)
@@ -17,9 +17,6 @@ class CarrefourAlcoholicPageAssertion {
 
     }
 }
-
-
-
 
 
 export const carrefourAlcoholicPageAssertion = new CarrefourAlcoholicPageAssertion()

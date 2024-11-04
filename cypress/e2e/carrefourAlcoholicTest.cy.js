@@ -9,12 +9,12 @@ describe('Filter functionality tests', () => {
 
     it('Check filter result by branch name', () => {
         carrefourAlcoholicPage.openFilters()
+       
         carrefourAlcoholicPage.elements.brandName().click()
         cy.wait(2000)
         carrefourAlcoholicPage.apply()
-        cy.wait(2000)
 
-       carrefourAlcoholicPageAssertion.assertByBrandName('Ararat')
+       carrefourAlcoholicPageAssertion.assertByBrandName('Արարատ')
     })
 
 })
