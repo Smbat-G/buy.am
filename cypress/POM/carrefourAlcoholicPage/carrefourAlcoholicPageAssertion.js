@@ -9,9 +9,6 @@ class CarrefourAlcoholicPageAssertion {
             console.log(element.innerText);
             cy.wrap(element).should('include.text', brandName);
 
-            //element.should('contain.text', brandName)
-           //cy.wrap(element).contains(brandName)
-
         });
     })
 
