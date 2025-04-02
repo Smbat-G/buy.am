@@ -7,6 +7,7 @@ class CarrefourAlcoholicPageAssertion {
         products.each((index,element) => {
           
             console.log(element.innerText);
+            cy.wait(2000)
             cy.wrap(element).should('include.text', brandName);
 
         });

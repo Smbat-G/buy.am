@@ -22,7 +22,7 @@ sortBy = {
 
 apply(){
     this.elements.applyBtn().click()
-    cy.wait(3000)
+    cy.wait(5000)
 }
 
 visit(){
